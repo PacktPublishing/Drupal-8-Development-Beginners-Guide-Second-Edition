@@ -1,0 +1,7 @@
+name: Recipes
+type: theme
+base theme: bartik
+description: A theme for styling up some delicious recipes!
+core: 8.x
+libraries:
+  - recipes/global-styling

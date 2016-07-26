@@ -1,0 +1,21 @@
+.main-content h2 {
+    font-size: 50px;
+}
+
+/* Override default image float on the recipe node */
+.node--type-recipe .field--name-field-image {
+    float: none;
+}
+
+.recipe-phase {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.preparation {
+    background-color: #e7e7e7;
+}
+
+.cooking {
+    background-color: #b0fbad;
+}

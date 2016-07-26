@@ -1,0 +1,12 @@
+global-styling:
+  version: 1.0
+  css:
+    theme:
+      css/style.css: {}
+
+delicious:
+  version: 1.0
+  js:
+    js/delicious.js: {}
+  dependencies:
+    - core/jquery

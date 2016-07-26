@@ -1,0 +1,36 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - author_tool
+    - node
+    - user
+  theme:
+    - bartik
+id: authortoolblock
+theme: bartik
+region: sidebar_first
+weight: null
+provider: null
+plugin: author_tool_block
+settings:
+  id: author_tool_block
+  label: 'Author tool block'
+  provider: author_tool
+  label_display: visible
+visibility:
+  node_type:
+    id: node_type
+    bundles:
+      recipe: recipe
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+  user_role:
+    id: user_role
+    roles:
+      authenticated: authenticated
+      administrator: administrator
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'
