@@ -8,6 +8,6 @@ To follow the examples in this book, you'll need a computer on which you can set
 You're also going to need an Internet connection. Many of the examples in this book rely on external services such as GitHub or PuPHPet and you'll have to do some fairly large downloads if you're installing some of the recommended software packages from scratch.
 
 For more information refer to the following books:
-* [Learning Drupal 8](https://www.packtpub.com/web-development/learning-drupal-8?utm_source=GitHub&utm_medium=repo&utm_campaign=9781782168751)
-* [Drupal 8 Development Cookbook](https://www.packtpub.com/web-development/drupal-8-development-cookbook?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785881473)
-* [Mastering Drupal 8 Views](https://www.packtpub.com/web-development/mastering-drupal-8-views?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785886966)
+* [Learning Drupal 8](https://www.packtpub.com/web-development/learning-drupal-8?utm_source=GitHub&utm_medium=repository&utm_campaign=9781782168751)
+* [Drupal 8 Development Cookbook](https://www.packtpub.com/web-development/drupal-8-development-cookbook?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785881473)
+* [Mastering Drupal 8 Views](https://www.packtpub.com/web-development/mastering-drupal-8-views?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785886966)
