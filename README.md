@@ -1,5 +1,5 @@
 # Drupal-8-Development-Beginners-Guide-Second-Edition
-[Drupal 8 Development Beginners Guide Second Edition](https://www.packtpub.com/web-development/mastering-drupal-8-views?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785284885) by [Packt Publishing](https://www.packtpub.com/)
+[Drupal 8 Development Beginners Guide Second Edition](https://www.packtpub.com/web-development/drupal-8-development-beginners-guide-second-edition?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785284885) by [Packt Publishing](https://www.packtpub.com/)
 
 This code bundle has code of chapters 5 and 6 and code of other chapters can be taken from the chapters itself.
 
